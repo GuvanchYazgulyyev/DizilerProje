@@ -1,0 +1,20 @@
+E:\source\repos\C# ders 20\Diziler 2.kısım\Diziler 2.kısım\bin\Debug\Diziler 2.kısım.exe.config
+E:\source\repos\C# ders 20\Diziler 2.kısım\Diziler 2.kısım\bin\Debug\Diziler 2.kısım.exe
+E:\source\repos\C# ders 20\Diziler 2.kısım\Diziler 2.kısım\bin\Debug\Diziler 2.kısım.pdb
+E:\source\repos\C# ders 20\Diziler 2.kısım\Diziler 2.kısım\obj\Debug\Diziler 2.kısım.csprojAssemblyReference.cache
+E:\source\repos\C# ders 20\Diziler 2.kısım\Diziler 2.kısım\obj\Debug\Diziler_2.kısım.Form1.resources
+E:\source\repos\C# ders 20\Diziler 2.kısım\Diziler 2.kısım\obj\Debug\Diziler_2.kısım.Properties.Resources.resources
+E:\source\repos\C# ders 20\Diziler 2.kısım\Diziler 2.kısım\obj\Debug\Diziler 2.kısım.csproj.GenerateResource.cache
+E:\source\repos\C# ders 20\Diziler 2.kısım\Diziler 2.kısım\obj\Debug\Diziler 2.kısım.csproj.CoreCompileInputs.cache
+E:\source\repos\C# ders 20\Diziler 2.kısım\Diziler 2.kısım\obj\Debug\Diziler 2.kısım.exe
+E:\source\repos\C# ders 20\Diziler 2.kısım\Diziler 2.kısım\obj\Debug\Diziler 2.kısım.pdb
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 20\Diziler 2.kısım\Diziler 2.kısım\bin\Debug\Diziler 2.kısım.exe.config
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 20\Diziler 2.kısım\Diziler 2.kısım\bin\Debug\Diziler 2.kısım.exe
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 20\Diziler 2.kısım\Diziler 2.kısım\bin\Debug\Diziler 2.kısım.pdb
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 20\Diziler 2.kısım\Diziler 2.kısım\obj\Debug\Diziler 2.kısım.csprojAssemblyReference.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 20\Diziler 2.kısım\Diziler 2.kısım\obj\Debug\Diziler_2.kısım.Form1.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 20\Diziler 2.kısım\Diziler 2.kısım\obj\Debug\Diziler_2.kısım.Properties.Resources.resources
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 20\Diziler 2.kısım\Diziler 2.kısım\obj\Debug\Diziler 2.kısım.csproj.GenerateResource.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 20\Diziler 2.kısım\Diziler 2.kısım\obj\Debug\Diziler 2.kısım.csproj.CoreCompileInputs.cache
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 20\Diziler 2.kısım\Diziler 2.kısım\obj\Debug\Diziler 2.kısım.exe
+F:\Guwanç Son Sınıf Yedek\D Disk\source\repos\C# ders 20\Diziler 2.kısım\Diziler 2.kısım\obj\Debug\Diziler 2.kısım.pdb
